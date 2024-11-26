@@ -1,4 +1,5 @@
 export default {
   Timeline: "Timeline",
-  FindingDate: "Finding a Date",
+  FindingDate: "Finding the Date",
+  FindingVenue: "Choosing the Venue",
 };
